@@ -70,3 +70,8 @@ local.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
 /target/
+
+maven-wrapper.jar
+maven-wrapper*
+mvmw*
+MavenWrapperDownloader.java
